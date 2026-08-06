@@ -9,13 +9,10 @@
 </div>
 <br>
 <p align="center">
-    <a href="https://github.com/CodelyTV"><img src="https://img.shields.io/badge/CodelyTV-OS-green.svg?style=flat-square" alt="codely.tv"/></a>
+    <a href="https://github.com/Unity-Billal-mesloub"><img src="https://img.shields.io/badge/CodelyTV-OS-green.svg?style=flat-square" alt="codely.tv"/></a>
     <a href="https://pro.codely.tv"><img src="https://img.shields.io/badge/CodelyTV-PRO-black.svg?style=flat-square" alt="CodelyTV Courses"/></a>
-    <a href="https://github.com/CodelyTV/dotly/actions"><img src="https://github.com/CodelyTV/dotly/workflows/CI/badge.svg" alt="CI pipeline status"/></a>
+    <a href="https://github.com/Unity-Billal-mesloub/dotly/actions"><img src="https://github.com/Unity-Billal-mesloub/dotly/workflows/CI/badge.svg" alt="CI pipeline status"/></a>
 </p>
-
-dotly is a dotfiles framework built on top of [zim](https://github.com/zimfw/zimfw), one of the fastest zsh existing
-frameworks. It creates an opinionated dotfiles structure to handle all your configs and scripts.
 
 ## 🚀 Installation
 
@@ -209,10 +206,4 @@ You can execute `dot self debug` in parallel with another command to see the err
 
 * If you want to implement a new feature/script, please, open an issue first
 
-## 😊 Thanks
 
-A lot of dotly concepts has been inspired by [denisidoro/dotfiles](https://github.com/denisidoro/dotfiles)
-
-## ⚖️ LICENSE
-
-MIT © [CodelyTV](https://codely.tv)
